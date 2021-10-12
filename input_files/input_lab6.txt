@@ -1,0 +1,2 @@
+some random message to hash for digital signature
+wrong message
